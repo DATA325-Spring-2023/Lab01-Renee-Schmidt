@@ -1,5 +1,7 @@
 ---
 title: "Lab 01 - Hello R!"
+date: "3/7/2023"
+author: "Renee Schmidt"
 output: 
   tufte::tufte_html:
     css: ../lab.css
